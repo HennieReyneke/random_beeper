@@ -1,0 +1,9 @@
+const String appTitle = 'Random Beeper';
+const int appStartButCol = 0xFF880E4F;
+const int appResetButCol = 0xFF303F9F;
+const double appMargin = 15;
+const double appFontSizeNormal = 20;
+const double appFontSizeHuge = 24;
+const double appFontSizeBig = 22;
+const double appButMargin = 90;
+const double appButBorderRad = 20;
